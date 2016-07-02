@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="eazegraph-1.1.14-SNAPSHOT">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.blackfizz/eazegraph/1.1.14-SNAPSHOT/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.blackfizz/eazegraph/1.1.14-SNAPSHOT/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.blackfizz/eazegraph/1.1.14-SNAPSHOT/3762f93ddf989603921a3943fcf7b10e9a7ef8b6/eazegraph-1.1.14-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

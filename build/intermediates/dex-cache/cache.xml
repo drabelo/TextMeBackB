@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.pkmmte.view/circularimageview/1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-657154f2bcf8a5cadb20c378d8a652a61768bdb0.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library-circular/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="59b836dcf08d8345b8d0b3c1b32e794add5e1bc1">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-e7308ba9d1369102d18a3e7d91e6fb4dd177815c.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-3bf27a6ac69e10b3cfc25676cbfa1d832dd7a5bf.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-18c7dd73bc267ea710cb2b8925d327e672eaf00b.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="81d6467247ced8a5d51f8ff73a6595d517eddba6">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-988636d4c1e05266b6265427653f78fcf21e763f.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d851788f6c23d14aa5fa8fbfd6d1b17725ad44c5">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-dac8a5c8ac2f10c5405de085a84f0e9c721a040b.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/TextMeBack-master/hellocharts-library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c535afce44a837d2736b4c684dcb057a5ec9fcab">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-010b05331f26eb7de0f2d1b3f691d027a1570b81.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.github.amigold.fundapter/library/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="12e67307b10da7aad1bd09af41f281a2fed08d96">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-aa94c7193ab2428c37ceacf726cf68b7d3374155.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/lib-manipulation-3.1.0-78b9ccc8ca3fe922c064f22957e02beb2f2d22af.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-49acb38a367b4caa433d5d5ed45d1f52d3fad284.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-d8d10fc01521953e0ef0e3289d6cb64b517e4de4.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.3/56498efd17752898cfcc3868c1b6211a07b12b8f/joda-time-2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/joda-time-2.3-3e129b3f30e2362a59eba7203e827d6d9cec1669.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-35df66d1f87a588b3a8cf0ae84217f4cd54599e7.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/TextMeBack-master/materialList/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="edd63772758e6e065db5d0141e00354b678285c7">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-277dbacc76f97ae940a47acf1723c389e8d59944.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/library-2.4.0-57066e18b4e739b62b22a5310bdb08d17f64dcd6.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-5088ed8f44035bc9aad111c1d1861d59d578b1f0.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/1.0.1-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="18189948ca1bbca4211c909019fe36fb14a5f495">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-9164370b411564bf9e601dd8622a113466a908c0.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/otto-1.3.5-aded976318312cf9f4b70b56985a503b09dac257.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/lib-core-3.1.0-9d9812b6927b51bc908c5821d04ccdc3a15b1246.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.github.blackfizz/eazegraph/1.1.14-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1948bda30d8ac8cf70f49458e6e782b678ef9371">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-1c89f4b98e20142c111f4c5ace9ea81cbb688b21.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/classes-68227932fa157dae13be09c2c6a3736ddbf8cffa.jar" />
+    </item>
+    <item
+        jar="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/dailtonrabelo/Downloads/TextMeBack-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-147ecd955fa2a9f55eface547bb7a00463eff9bd.jar" />
+    </item>
+
+</items>

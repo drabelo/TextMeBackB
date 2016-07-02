@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="blue" type="color">#ff4db6ac</item>
+    <item name="white" type="color">#fffffff0</item>
+    <item name="dark_blue" type="color">#0B6D63</item>
+
+    <color name="grey">#C2C2C2</color>
+
+    <!-- app theme colors -->
+    <color name="app_theme_light">#009688</color>
+    <color name="app_theme_dark">#00695C</color>
+    <color name="app_theme_accent">#FF9800</color>
+
+    <color name="text_black">#000000</color>
+    <color name="text_grey">#666666</color>
+
+
+</resources>
